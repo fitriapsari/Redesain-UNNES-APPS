@@ -1,0 +1,15 @@
+Mahasiswa UNNES (Si A)
+Description
+Sebagai mahasiswa Unnes saya ingin memiliki aplikasi yang dapat memabantu saya dalam aktivitas kampus saya, 
+tanpa harus membuka satu-satu platform. Dijadikan dalam satu platform tanpa harus bolak-balik ke platform lain. 
+
+Mahasiswa UNNES (Si B)
+Description
+Saya sebagai mahasiswa Unnes ingin sekali ada aplikasi yang dapat membantu saya sebagai mahasiswa dalam produktivitas kampus, 
+mengenai informasi tugas, jadwal dan ruang perkuliahan.
+
+Mahasiswa UNNES (Si C)
+Description
+saya sebagai mahasiswa Unnes kalau berangkat ke kampus untuk sampai ke gedung ruang perkuliahaan saya harus menaiki shuttle bus terlebih dahulu, 
+tapi saya kurang paham dengan jadwal shuttle bus Unnes dan posisi dari shuttle bus Unnes yang tidak saya ketahui. 
+Dari permasalahan itu saya ingin Unnes memiliki aplikasi yang dapat melacak posisi serta memberitahu jadwal mengenai shuttle bus Unnes
